@@ -1,0 +1,18 @@
+
+.App-header {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #282c34;
+}
+
+h1, h2, h3 {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+h4, p {
+  font-family: 'Proza Libre', sans-serif;
+}
+
